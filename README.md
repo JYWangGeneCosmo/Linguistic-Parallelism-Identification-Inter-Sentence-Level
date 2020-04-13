@@ -1,4 +1,4 @@
-# linguistic-parallelism-identification-inter-sentence-level
+# linguistic-parallelism-identification (inter-sentence-level)
 This is a sister project of inner-sentence level parallelism identification (see: https://github.com/JYWangGeneCosmo/linguistic-parallelism-identification-inner-sentence-level-)
 
 This project focus on automatic identification of inter-sentence level parallelism and takes not only lexical and syntactic features, but also semantic features (with NRC-VAD Sentiment Lexicon) into account. The guidelines and the corresponding project report are uploaded in PDF format. The csv file is the training/test dataset and ipynb file is the python script (including feature engineering process) for this project.
